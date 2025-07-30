@@ -895,7 +895,4 @@ if __name__ == "__main__":
 # =============================================================================
 # COMANDO PARA COMPILAR EL EJECUTABLE
 # =============================================================================
-# 1. Activar entorno Python 3.8
-#venv_py38\Scripts\activate
-#ultimo camando que se uso para compilar
 #pyinstaller --onefile --windowed --icon=icono.ico --collect-all babel --collect-all tkcalendar --noupx etiquetador.py

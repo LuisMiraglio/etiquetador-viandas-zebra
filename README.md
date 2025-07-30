@@ -11,7 +11,7 @@ Lee un archivo Excel con los pedidos de menú por empleado y genera automáticam
 ![Interfaz](docs/interfaz.PNG)
 
 ### Ejemplo de etiqueta generada
-![Etiqueta generada](docs/etiqueta.PNG)
+![Etiqueta generada](docs/etiqueta.png)
 
 ---
 
